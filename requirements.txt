@@ -1,3 +1,0 @@
-google-genai
-youtube-transcript-AIzaSyDRm58dU_oUpQKhq7l6XwfL5cmEmN0KHHY
-streamlit
